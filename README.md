@@ -2,6 +2,8 @@
 
 This example explains you usage of GraphQl in ReactJS application, later you can use the same setup with any other platform (Eg: Vue.js, AngularJS). mLabs is being used to store documents.
 
+![image](https://user-images.githubusercontent.com/3865313/59348417-57e68480-8d17-11e9-8295-468c27dc6d16.png)
+
 ## Installation guide
 
 You can setup both the applications and run in parallel.
