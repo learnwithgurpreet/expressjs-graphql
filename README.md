@@ -24,8 +24,6 @@ Note: Default port is 4000
 $ cd client
 $ npm install
 $ npm start
-Kudos, you are all set with graphQl server.
-Note:
-- Default port is 3000
-- We are using create-react-app module
+Your ReactJS app is using on 3000 port now
+Note: We are using create-react-app module
 ```
