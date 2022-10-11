@@ -3,9 +3,11 @@
 This example explains you usage of GraphQl with ExpressJS services, later you can use the same setup with any other platform (Eg: Vue.js, AngularJS). mLabs is being used to store documents.
 
 ## Architecture Diagram
+
 To be Provided
 
 ## Libs/Frameworks
+
 <ul>
   <li>ExpressJS</li>
   <li>ExpressJS GraphQl</li>
@@ -16,6 +18,9 @@ To be Provided
 
 ```
 $ npm install
+# Create a .env file on root with following secrets:
+SECRET_KEY=YOUR_SUPER_SECRET_KEY_FOR_JWT
+
 $ npm start
 Kudos, you are all set with graphQl server.
 Note: Default port is 3000 and end point is localhost:3000/graphql
