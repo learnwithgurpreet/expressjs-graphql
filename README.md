@@ -4,7 +4,7 @@ This example explains you usage of GraphQl with ExpressJS services, later you ca
 
 ## Architecture Diagram
 
-To be Provided
+![graphql_server](https://user-images.githubusercontent.com/3865313/197401452-a98444f3-aa9e-4a7e-8a29-4fd6c0e8566c.jpg)
 
 ## Libs/Frameworks
 
